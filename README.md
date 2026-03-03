@@ -2,7 +2,7 @@
 
 ### 🧠 About Me
 
-I’m an Android Engineer with a strong focus on building products — not just features.
+I’m a software engineer with a strong focus on building products — not just features.
 
 I care about:
 
